@@ -5,3 +5,5 @@
 !*.ino
 
 !documentation/
+
+!sketch_rfid/sketch_rfid.ino
